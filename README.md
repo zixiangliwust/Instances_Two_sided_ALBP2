@@ -1,4 +1,4 @@
-# Two_sided_ALBP2
+# Instances_Two_sided_ALBP2
 Instances for the two-sided assembly line balancing problem to minimize the cycle time  
 This instance set contains the utilized instances[1] in which contain most of the instances in published papers. To gain a more in-depth and thorough understanding of this problem, interested authors are encouraged to refer to our relevant papers[1-3].  
 References:  
