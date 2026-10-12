@@ -7,3 +7,13 @@ References:
 [3] Zixiang Li, Qiuhua Tang, Liping Zhang. Minimizing the Cycle Time in Two-Sided Assembly Lines with Assignment Restrictions: Improvements and a Simple Algorithm. Mathematical Problems in Engineering, 2016, 2016:1-15.  
 
 
+
+---
+
+## Document Index
+
+- [CHANGELOG.md](CHANGELOG.md) — version history and changelog
+- [VERSION](VERSION) — current version
+- [LICENSE](LICENSE) — license
+
+**Maintainer:** IISO Team ｜ **Version:** 1.0.0 ｜ **Last Updated:** 2026-10-12
