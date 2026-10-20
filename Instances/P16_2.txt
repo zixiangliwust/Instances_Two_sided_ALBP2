@@ -1,6 +1,6 @@
 <number of tasks>
 16
-<mated-station number>
+<number of mated-stations>
 2
 <task times>
 1 6
